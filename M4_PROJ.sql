@@ -158,7 +158,7 @@ CREATE TABLE IF NOT EXISTS expense_tracker.transactions
 --weryfikacja na diagramie ERD, powi¹zania prawid³owe
 
 
-
+SELECT * FROM expense_tracker.transactions;
 
 
 
